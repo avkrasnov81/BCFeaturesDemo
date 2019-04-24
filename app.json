@@ -1,0 +1,28 @@
+{
+  "id": "74450ab9-aedf-4003-9c58-9f1666d112dd",
+  "name": "BCFeaturesDemo",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://BCFeaturesDemo.com/help/",
+  "showMyCode": true,
+  "target": "Internal",
+  "features": ["TranslationFile"],  
+  "runtime": "3.0"
+}

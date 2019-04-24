@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BCFeaturesDemo">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 532545754 - Field 895206272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Holiday - Field date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532545754 - Field 1417004286 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>localName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Holiday - Field localName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532545754 - Field 3558812865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Holiday - Field name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532545754 - Field 2715004511 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>countryCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Holiday - Field countryCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532545754 - Field 2622567962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>fixed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Holiday - Field fixed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532545754 - Field 1062487533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>global</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Holiday - Field global - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 532545754 - Field 3175374588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Holiday - Field type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2190365927 - Action 2026913255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Refresh </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Holidays - Action Refresh - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3899393895 - Control 1891287182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Correct Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ContantListCorrectedEmailExt - Control Correct Email - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3899393895 - Control 1891287182 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check is email corrected</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ContantListCorrectedEmailExt - Control Correct Email - Property ToolTip</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
