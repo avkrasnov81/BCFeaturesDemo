@@ -12,7 +12,8 @@ codeunit 50102 "Check Sales Mgt"
     var
         GLPost: Codeunit "Gen. Jnl.-Post";
     begin
-
+        Clear(GLPost);
+        Message('1');
     end;
 
 }
